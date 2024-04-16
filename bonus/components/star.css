@@ -1,6 +1,7 @@
 .fa-solid.fa-star {
     font-size: 30px;
     color: #2c3e50;
+    position: relative;
 
 }
 
@@ -29,3 +30,4 @@ left: 35%;
 top: 50%;
 right: 35%;
 }
+
