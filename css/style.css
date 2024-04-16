@@ -13,8 +13,7 @@ header .col-6 {
  #portfolio .col-6,
  #portfolio .col-4 {
     background-color: black;
-    height: 200px;
-    border: 1px solid red;
+    
 }
  #about .col-12,
  #about .col-6 {
