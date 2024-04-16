@@ -1,0 +1,8 @@
+.gf-img-components {
+    overflow: hidden;
+    border-radius: 20px;
+}
+.gf-img-components img {
+    max-width: 100%;
+    height: auto;
+}

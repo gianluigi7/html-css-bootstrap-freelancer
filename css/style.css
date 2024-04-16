@@ -1,20 +1,20 @@
- header {
+@import "../bonus/components/img-rounded.css";
+@import "../bonus/components/star.css";
+@import "../bonus/components/social.css";
+
+
+
+
+
+
+header {
    background-color: #2c3e50;
  }
 
  section:nth-child(odd) {
     background-color: #1abc9c;
  }
-header .col-6 {
-    height: 60px;
-    background-color: beige;
- }
- #portfolio .col-12,
- #portfolio .col-6,
- #portfolio .col-4 {
-    background-color: black;
-    
-}
+
  #about .col-12,
  #about .col-6 {
     background-color: #2c3e50;
