@@ -14,17 +14,16 @@ header {
  section:nth-child(odd) {
     background-color: #1abc9c;
  }
-
-
-footer .col-12,
-footer .col-4 {
-    background-color: bisque;
-    height: 150px;
-    border: 1px solid orange;
-}
+ ul {
+    list-style-type: none;
+ }
 
 footer {
     background-color: #3a546d;
+}
+
+footer span {
+    color: #1abc9c;
 }
 
 .container-fluid {
