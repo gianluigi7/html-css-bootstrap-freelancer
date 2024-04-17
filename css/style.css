@@ -17,7 +17,9 @@ header {
  ul {
     list-style-type: none;
  }
-
+#start img {
+    width: 230px;
+}
 footer {
     background-color: #3a546d;
 }

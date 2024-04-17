@@ -31,3 +31,29 @@ top: 50%;
 right: 35%;
 }
 
+.star-white {
+    position: relative;
+    
+}
+.star-white::before {
+ content: "";
+ background-color: white;
+ display: block;
+ position: absolute;
+ width: 10%;
+ height: 3px;
+top: 50%;
+left: 35%;
+}
+
+.star-white::after {
+ content: "";
+ background-color: white;
+ display: block;
+ position: absolute;
+ width: 10%;
+ height: 3px;
+top: 50%;
+right: 35%;
+}
+
